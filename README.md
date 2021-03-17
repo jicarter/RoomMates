@@ -1,6 +1,7 @@
 # RoomMates
 
-Writing SQL in a .NET Application with ADO.NET
+## Writing SQL in a .NET Application with ADO.NET
+
 Sometimes money is tight. Sometimes when money is tight, it becomes an unavoidable truth that we must live with other people. We call these people Roommates.
 
 Your task is to build a command line application to manage a house full of roommates. You should persist data in a SQL Server database.
